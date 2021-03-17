@@ -8,9 +8,10 @@ The purpose of this application is to inspect past inspections. The way that it 
 - [Install Survey Results Bus Stop Manager](https://maps.metrostlouis.org/arcgis/home/item.html?id=61074008b9bb40e99f31eaf5da5bcc11) (REACT_APP_ID and REACT_APP_REDIRECT_URI env variable locations)
 - [Survey](https://maps.metrostlouis.org/arcgis/home/item.html?id=ad1421bb1d224e129752bba181588dc9) (Location of Install survey)
 - Portal = https://maps.metrostlouis.org/arcgis
+- [Application Information](https://metroas08.metrostlouis.org/arcgis/home/item.html?id=2807cc7fb7e243448d43c0be3ef35018)
 
 ## Update URI
-When you go to host this on a hosted website you will need to update the uri on the [Application Information](https://maps.metrostlouis.org/arcgis/home/item.html?id=9640284533ff41cea8ab9477bca157af) by going to settings and click update to update the uri appliction. You will want to add in the location in where it is hosted. You need to do this so you can connect the authorization system.
+When you go to host this on a hosted website you will need to update the uri on the [Application Information](https://metroas08.metrostlouis.org/arcgis/home/item.html?id=2807cc7fb7e243448d43c0be3ef35018) by going to settings and click update to update the uri appliction. You will want to add in the location in where it is hosted. You need to do this so you can connect the authorization system.
 
 ![register_info.PNG](register_info.PNG)
 
